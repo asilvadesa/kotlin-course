@@ -1,0 +1,6 @@
+package fundamentals
+
+class DatatypeNumbers {
+
+    
+}
